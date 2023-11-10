@@ -1,5 +1,5 @@
 ### Olá! Eu sou Gustavo Melo. 👋
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://gustavo__meloo)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://gustavo__meloo](https://instagram.com/gustavo__meloo))
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oleM-ovatsuG&show_icons=true&theme=tokyonight)
 
